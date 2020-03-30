@@ -23,7 +23,7 @@ Initial testing scenery:
 - initial-testing-4.png
  
 Video of initial weather simulations:
-- World #1.mov
+- https://drive.google.com/file/d/1gqG6mzMIYiblvn9zn07rISjeIDtgBFeU/
  
 Advanced draft of scenery with weather, trees, and grass:
 - weather.png
