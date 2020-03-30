@@ -1,5 +1,7 @@
 # CS267
 Interactive Digital Media Personal Portfolio - Colby College - January 2019
+- Matthew Maring
+- Lead Visual Artist
 
 My work on the project:
 - Designing tree 3D models with Unity
