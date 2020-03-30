@@ -32,6 +32,6 @@ Final design of scenery implemented in the final Unity project:
 final-design.png
  
 Example character scripts I wrote:
-https://drive.google.com/open?id=1meqlrcbyOjuE_bwFSvZMVdqo2ph36Nia
-https://drive.google.com/open?id=1yLGod2_NzLON7uSmVpe2IK5cE5WWW7Jd
-https://drive.google.com/open?id=1ryOCPTN-DYL0o47axhffrhLVASgv3vjI
+ChickenScript.cs
+RandomScript.cs
+SharkScript.cs
