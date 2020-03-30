@@ -11,27 +11,27 @@ My work on the project:
 - Implementing action scripts for all of the 3D creature objects
  
 Tree prefabs used in the scenery:
-tree-prefabs.png
+- tree-prefabs.png
 
 Examples of tree bark textures used in the scenery:
-tree-textures.png
+- tree-textures.png
  
 Initial testing scenery:
-initial-testing-1.png
-initial-testing-2.png
-initial-testing-3.png
-initial-testing-4.png
+- initial-testing-1.png
+- initial-testing-2.png
+- initial-testing-3.png
+- initial-testing-4.png
  
 Video of initial weather simulations:
-World #1.mov
+- World #1.mov
  
 Advanced draft of scenery with weather, trees, and grass:
-weather.png
+- weather.png
  
 Final design of scenery implemented in the final Unity project:
-final-design.png
+- final-design.png
  
 Example character scripts I wrote:
-ChickenScript.cs
-RandomScript.cs
-SharkScript.cs
+- ChickenScript.cs
+- RandomScript.cs
+- SharkScript.cs
